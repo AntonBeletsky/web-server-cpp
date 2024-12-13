@@ -1,4 +1,0 @@
-﻿  WebServChatGPT.cpp
-C:\Users\Anton\source\repos\WebServChatGPT\WebServChatGPT.cpp(39,69): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Anton\source\repos\WebServChatGPT\WebServChatGPT.cpp(57,77): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-  WebServChatGPT.vcxproj -> C:\Users\Anton\source\repos\WebServChatGPT\x64\Debug\WebServChatGPT.exe
